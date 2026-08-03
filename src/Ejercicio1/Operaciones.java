@@ -18,4 +18,7 @@ public class Operaciones {
     public int minimo(int a, int b){
         return Math.min(a, b);
     }
+    public int potencia(int a, int b){
+        return (int)Math.pow(a, b);
+    }
 }
