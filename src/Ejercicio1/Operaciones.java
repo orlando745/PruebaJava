@@ -12,4 +12,10 @@ public class Operaciones {
     public int division(int a, int b){
         return a/b;
     }
+    public int maximo(int a, int b){
+        return Math.max(a, b);
+    }
+    public int minimo(int a, int b){
+        return Math.min(a, b);
+    }
 }
