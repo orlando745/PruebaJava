@@ -6,5 +6,7 @@ public class Principal {
         System.out.println("Resta de dos numeros "+op.suma(5, 6));
         System.out.println("Multiplicacion de dos numeros "+op.suma(5, 6));
         System.out.println("Division de dos numeros "+op.suma(8, 4));
+        System.out.println("El numero mayor es: "+op.maximo(5, 8));
+        System.out.println("El numero mayor es: "+op.minimo(8, 7));
     }
 }
